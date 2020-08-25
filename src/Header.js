@@ -4,14 +4,12 @@ export default function Header() {
   return (
     <div className="header">
       <a href="#default" class="logo">
-        CompanyLogo
+        by Grandeur Vegah
       </a>
       <div className="header-right">
-        <a class="active" href="#home">
-          Home
+        <a class="active" href="https://github.com/GrandeurVegah/React-Api">
+          The Repo
         </a>
-        <a href="#contact">Contact</a>
-        <a href="#about">About</a>
       </div>
     </div>
   );

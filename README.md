@@ -1,4 +1,6 @@
-Work in progress 
+This is a simple React project that makes API calls and displays the content recieved . The project makes use of React function based components and the useState Hook
+
+Live HERE
 
 
 ## Available Scripts
