@@ -1,6 +1,6 @@
 This is a simple React project that makes API calls and displays the content recieved . The project makes use of React function based components and the useState Hook
 
-Live HERE
+[Live HERE](https://chucknorris-api-calls.netlify.app/)
 
 
 ## Available Scripts
