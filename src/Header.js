@@ -8,7 +8,7 @@ export default function Header() {
       </a>
       <div className="header-right">
         <a class="active" href="https://github.com/GrandeurVegah/React-Api">
-          The Repo
+          The repo
         </a>
       </div>
     </div>
